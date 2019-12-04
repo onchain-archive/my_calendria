@@ -1,0 +1,25 @@
+{
+  "name": "my_marker",
+  "version": "1.0.0",
+  "description": "My Alexa Marker Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar",
+    "event",
+    "marker",
+    "schedule",
+    "tasks",
+    "alexa",
+    "my",
+    "marker"
+  ],
+  "author": "Pratyaksh Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.23.1"
+  }
+}
